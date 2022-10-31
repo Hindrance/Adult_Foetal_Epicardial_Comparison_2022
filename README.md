@@ -5,7 +5,7 @@
 />
 
 # A single-cell comparison of adult and foetal human epicardium defines the age-associated changes in epicardial activity
-#### Vincent R. K night-Schrijver
+#### Vincent R. Knight-Schrijver
 
 # Introduction
 This report documents the full analysis of scRNA-seq data underlying the project entitled 

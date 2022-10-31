@@ -11,8 +11,9 @@
 This report documents the full analysis of scRNA-seq data underlying the project entitled 
 "*A single-cell comparison of adult and foetal human epicardium defines the age-associated changes in epicardial activity*".
 . This project was a combination of other projects worked on simultaneously within the Sinha Lab initialised by a single
- Foetal heart sample, following by the slow acquisition of futher foetal samples andn finally catalysed by 
- the sudden appearance of an adult dataset with identifiable scRNA-seq epicardium. This led to the natural questions:
+ Foetal heart sample. Following the slow acquisition of futher foetal samples, the project was finally catalysed by 
+the sudden appearance of an adult dataset with identifiable scRNA-seq epicardium ([Heart Cell Atlas](https://www.heartcellatlas.org/)). 
+Naturally, this led to a series of questions:
 
 1. How does foetal epicardium differ from adult epicardium in normal conditions and otherwise healthy ageing?
 2. Is there a signal here responsible for the perceived regenerative potential of hearts in more embryonic and neonatal stages of mammals?

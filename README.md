@@ -20,14 +20,14 @@ Naturally, this led to a series of questions:
 3. How does the adult epicardium compare with our in vitro hESC-derived epicardium?
 
 There are multiple sub-questions as well but these were the initial drivers of the project. As to the structure of this report, I will try to keep 
-the reports separated into differenti stages of the analysis. We will begin with loading in some of the key packages and occasionally load an 
+the reports separated into different stages of the analysis. We will begin with loading in some of the key packages and occasionally load an 
 extra package where required within the specific stage of the analysis.
 
 # Analysis workflow:
 The overall structure of the analysis is as follows:
 
-1. Read both adult and foetal data
-2. Process data to similar QC standards
+1. Read both adult and foetal data and subsample the adult dataset
+2. Process foetal data using quality control thresholds determined by adult data
 3. Integrate datasets for a single object
 4. Clustering and cell-type annotation
 5. Sub-cluster epicardium
